@@ -1,4 +1,4 @@
-# DATA_WAREHOUSE_SQL_PROJECT
+# 🏗️ DATA_WAREHOUSE_SQL_PROJECT
 
 **About this project**
 ---
@@ -44,3 +44,12 @@ How to think in terms of data modeling
 Why structure matters more than just writing queries
 How ETL actually works in practice
 Importance of clean and consistent data
+
+---
+
+# 🔧 Tools & Technologies Used
+🗄️ SQL Server — Data querying, cleaning & transformation
+
+🧩 Draw.io — Data modeling & architecture design
+
+🐙 GitHub — Version control & collaboration
