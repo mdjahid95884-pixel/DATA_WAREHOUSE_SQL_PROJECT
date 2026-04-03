@@ -1,7 +1,7 @@
 # DATA_WAREHOUSE_SQL_PROJECT
 
 **About this project**
-
+---
 This project is something I built while learning and practicing data analytics concepts using SQL. The main idea was to understand how raw data can be transformed into something meaningful that can actually help in decision-making.
 
 Instead of just running queries, I wanted to go deeper and simulate how real companies store and organize their data — that’s why I worked on building a small data warehouse.
@@ -22,7 +22,7 @@ SQL (mainly for transformations and modeling)
 Basic ETL concepts
 Relational database (like MySQL / PostgreSQL / SQL Server — depending on what you use)
 Data pipeline (how it works)
-
+---
 Here’s how I approached it:
 
 Bronze Layer
@@ -37,7 +37,7 @@ Finally, I created structured tables:
 Fact tables → store measurable data (like sales)
 Dimension tables → store descriptive data (like customers, products)
 What I learned
-
+---
 # This project helped me understand things that tutorials don’t really teach properly:
 
 How to think in terms of data modeling
